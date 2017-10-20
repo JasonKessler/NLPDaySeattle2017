@@ -16,9 +16,7 @@ Please install them and if you have time, star them on Github:
 It's news you can use: six Python 3.6 Jupyter notebooks showing how to visualize the following data:
 
 - [Introduction to Scattertext](https://nbviewer.jupyter.org/github/JasonKessler/NLPDaySeattle2017/blob/master/Scattertext-Intro-Part-1.ipynb)
-- [Using Scattertext and AgeFromName to find gender-discriminating terms](https://nbviewer.jupyter.org/github/JasonKessler/NLPDaySeattle2017/blob/master/Scattertext-Intro-Part-1.ipynb)
-- [Using Scattertext and AgeFromName to find gender-discriminating terms](https://nbviewer.jupyter.org/github/JasonKessler/NLPDaySeattle2017/blob/master/Scattertext-Intro-Part-2.ipynb)
-- [Topic-specific term associations through word representations](https://nbviewer.jupyter.org/github/JasonKessler/NLPDaySeattle2017/blob/master/Scattertext-Intro-Part-3.ipynb)
+- [Analyzing President Trump's Twitter stream before and after the election](https://nbviewer.jupyter.org/github/JasonKessler/NLPDaySeattle2017/blob/master/President-Trump-Twitter-Analysis-Part-2.ipynb)
 - [Using Scattertext to visualize Emoji usage by gender and heritage on Twitter](https://nbviewer.jupyter.org/github/JasonKessler/NLPDaySeattle2017/blob/master/Emoji-Gender-Heritage-Part-4.ipynb)
 - [Using Scattertext to visualize Emoji usage by language (e.g., English or Spanish) on Twitter](https://nbviewer.jupyter.org/github/JasonKessler/NLPDaySeattle2017/blob/master/Emoji-and-Language-In-the-US-Part-5.ipynb)
 - [Topic-specific term associations through word representations](https://nbviewer.jupyter.org/github/JasonKessler/NLPDaySeattle2017/blob/master/Scattertext-Intro-Part-3.ipynb)
