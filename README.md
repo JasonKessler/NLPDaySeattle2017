@@ -1,4 +1,4 @@
-## Understanding Cultures and Perspectives through Text and Emjoi Visualization.
+## Understanding Cultures and Perspectives through Text and Emoji Visualization
 ## Jason S. Kessler (CDK Global)
 ### #ddsea17: October 20, 2017
 
