@@ -11,7 +11,7 @@ Please install them and if you have time, star them on Github:
 - [Scattertext](https://github.com/JasonKessler/scattertext)
 - [AgeFromName](https://github.com/JasonKessler/agefromname)
 
-`$ pip install scattertext agefromname && python -m spacy.en.download`
+`$ pip install scattertext agefromname
 
 It's news you can use: six Python 3.6 Jupyter notebooks showing how to visualize the following data:
 
